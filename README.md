@@ -1,5 +1,4 @@
 # CAB202 Study Guide | 2021 Year 1 Semester 2
-Written by Brook Jeynes (Chooky) using the QUT course content and many other sources
 <br>
 
 <h1>Table of Contents</h1>
